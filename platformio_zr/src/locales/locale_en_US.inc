@@ -240,8 +240,8 @@ extern "C" {
 //   HONG_KONG_AQHI       INDIA_AQI            CHINA_AQI
 //   SINGAPORE_PSI        SOUTH_KOREA_CAI      UNITED_KINGDOM_DAQI
 //   UNITED_STATES_AQI
-; const aqi_scale_t AQI_SCALE = UNITED_STATES_AQI;
-const aqi_scale_t AQI_SCALE = CHINA_AQI;
+const aqi_scale_t AQI_SCALE = UNITED_STATES_AQI;
+// const aqi_scale_t AQI_SCALE = CHINA_AQI;
 
 
 const char *AUSTRALIA_AQI_TXT[6] =
